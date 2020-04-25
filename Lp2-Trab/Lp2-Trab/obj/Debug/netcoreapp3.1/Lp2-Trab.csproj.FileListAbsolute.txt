@@ -1,0 +1,13 @@
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\bin\Debug\netcoreapp3.1\Lp2-Trab.exe
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\bin\Debug\netcoreapp3.1\Lp2-Trab.deps.json
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\bin\Debug\netcoreapp3.1\Lp2-Trab.runtimeconfig.json
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\bin\Debug\netcoreapp3.1\Lp2-Trab.runtimeconfig.dev.json
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\bin\Debug\netcoreapp3.1\Lp2-Trab.dll
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\bin\Debug\netcoreapp3.1\Lp2-Trab.pdb
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\obj\Debug\netcoreapp3.1\Lp2-Trab.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\obj\Debug\netcoreapp3.1\Lp2-Trab.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\obj\Debug\netcoreapp3.1\Lp2-Trab.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\obj\Debug\netcoreapp3.1\Lp2-Trab.dll
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\obj\Debug\netcoreapp3.1\Lp2-Trab.pdb
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\obj\Debug\netcoreapp3.1\Lp2-Trab.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\LP2-Trab\Lp2-Trab\Lp2-Trab\obj\Debug\netcoreapp3.1\Lp2-Trab.genruntimeconfig.cache
